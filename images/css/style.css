@@ -1,0 +1,15 @@
+/* configuración global */
+/* declarar unas constantes en colores y fuente */
+/* el root es la raíz de todo, para hacer las configuraciones repetitivas */
+:root{
+    /* fuentes */
+    --titulos:'Lato', sans-serif;
+    --parrafo:'Roboto', sans-serif;
+    /* colores base */
+    --encabezado:rgb(81, 16, 16);
+    --pie:#000;
+    --enlace:#fff;
+    --enlaceSobre:#d1911a;
+
+
+}
